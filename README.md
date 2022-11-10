@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Oliver
+- 👀 I’m interested in Coding games and websites
+- 🌱 I’m currently learning how to make a website 
